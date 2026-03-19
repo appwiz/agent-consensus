@@ -1,0 +1,20 @@
+{
+  "prompt": "What is the capital of France?",
+  "responses": [
+    {
+      "agent_id": "agent-1",
+      "content": "The capital of France is Paris.",
+      "confidence": 0.95
+    },
+    {
+      "agent_id": "agent-2",
+      "content": "Paris is the capital of France.",
+      "confidence": 0.90
+    },
+    {
+      "agent_id": "agent-3",
+      "content": "The capital of France is Lyon.",
+      "confidence": 0.70
+    }
+  ]
+}

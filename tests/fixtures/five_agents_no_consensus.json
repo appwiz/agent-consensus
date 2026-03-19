@@ -1,0 +1,10 @@
+{
+  "prompt": "What is the best programming language?",
+  "responses": [
+    {"agent_id": "a1", "content": "Python is the best language.", "confidence": 0.80},
+    {"agent_id": "a2", "content": "Rust is superior to all others.", "confidence": 0.85},
+    {"agent_id": "a3", "content": "JavaScript dominates the web.", "confidence": 0.75},
+    {"agent_id": "a4", "content": "Go is the most practical choice.", "confidence": 0.70},
+    {"agent_id": "a5", "content": "Haskell brings mathematical purity.", "confidence": 0.65}
+  ]
+}

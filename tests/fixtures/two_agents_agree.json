@@ -1,0 +1,7 @@
+{
+  "prompt": "What is 2 + 2?",
+  "responses": [
+    {"agent_id": "a1", "content": "The answer is 4.", "confidence": 0.99},
+    {"agent_id": "a2", "content": "2 + 2 equals 4.", "confidence": 0.95}
+  ]
+}

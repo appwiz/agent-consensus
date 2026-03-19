@@ -1,0 +1,7 @@
+{
+  "prompt": "What is the best color?",
+  "responses": [
+    {"agent_id": "a1", "content": "Blue is the best color.", "confidence": 0.90},
+    {"agent_id": "a2", "content": "Red is clearly superior.", "confidence": 0.85}
+  ]
+}

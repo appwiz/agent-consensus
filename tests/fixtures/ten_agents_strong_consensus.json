@@ -1,0 +1,15 @@
+{
+  "prompt": "What is the boiling point of water at sea level?",
+  "responses": [
+    {"agent_id": "a1", "content": "Water boils at 100 degrees Celsius.", "confidence": 0.99},
+    {"agent_id": "a2", "content": "The boiling point of water is 100°C.", "confidence": 0.98},
+    {"agent_id": "a3", "content": "At sea level water boils at 100 degrees C.", "confidence": 0.97},
+    {"agent_id": "a4", "content": "Water boils at 100 degrees Celsius at sea level.", "confidence": 0.96},
+    {"agent_id": "a5", "content": "100 degrees Celsius is the boiling point of water.", "confidence": 0.95},
+    {"agent_id": "a6", "content": "Water reaches boiling at 100 degrees Celsius.", "confidence": 0.94},
+    {"agent_id": "a7", "content": "The boiling point is 100 degrees Celsius for water.", "confidence": 0.93},
+    {"agent_id": "a8", "content": "Water boils at 100 degrees Celsius under normal pressure.", "confidence": 0.92},
+    {"agent_id": "a9", "content": "Water boils at 50 degrees Fahrenheit.", "confidence": 0.40},
+    {"agent_id": "a10", "content": "Actually water never boils, it evaporates.", "confidence": 0.30}
+  ]
+}

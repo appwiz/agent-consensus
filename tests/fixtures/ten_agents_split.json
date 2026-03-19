@@ -1,0 +1,15 @@
+{
+  "prompt": "What is the best season?",
+  "responses": [
+    {"agent_id": "a1", "content": "Summer is the best season because of warm weather and sunshine.", "confidence": 0.85},
+    {"agent_id": "a2", "content": "Summer is wonderful with its warm days and bright sunshine.", "confidence": 0.80},
+    {"agent_id": "a3", "content": "Summer brings the best weather with warmth and sun.", "confidence": 0.78},
+    {"agent_id": "a4", "content": "The warm sunny days of summer make it the best.", "confidence": 0.82},
+    {"agent_id": "a5", "content": "Summer with its sunshine and warmth is clearly the best.", "confidence": 0.88},
+    {"agent_id": "a6", "content": "Crunchy autumn leaves and cool breezes make fall the top pick.", "confidence": 0.90},
+    {"agent_id": "a7", "content": "Fall with its cool crisp air and colorful foliage is unmatched.", "confidence": 0.92},
+    {"agent_id": "a8", "content": "Autumn brings beautiful foliage and refreshing cool temperatures.", "confidence": 0.88},
+    {"agent_id": "a9", "content": "The crisp cool air and falling leaves of autumn are the best.", "confidence": 0.91},
+    {"agent_id": "a10", "content": "Fall is the finest season with its cool breezes and changing leaves.", "confidence": 0.87}
+  ]
+}

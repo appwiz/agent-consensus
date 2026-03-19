@@ -1,0 +1,6 @@
+{
+  "prompt": "What is 1 + 1?",
+  "responses": [
+    {"agent_id": "a1", "content": "The answer is 2.", "confidence": 0.99}
+  ]
+}

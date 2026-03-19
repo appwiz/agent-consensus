@@ -1,0 +1,10 @@
+{
+  "prompt": "Is water wet?",
+  "responses": [
+    {"agent_id": "a1", "content": "Yes, water is wet.", "confidence": 0.99},
+    {"agent_id": "a2", "content": "Yes, water is indeed wet.", "confidence": 0.95},
+    {"agent_id": "a3", "content": "Water is wet, yes.", "confidence": 0.92},
+    {"agent_id": "a4", "content": "No, water makes things wet but is not itself wet.", "confidence": 0.80},
+    {"agent_id": "a5", "content": "Water is not wet, it causes wetness.", "confidence": 0.75}
+  ]
+}
